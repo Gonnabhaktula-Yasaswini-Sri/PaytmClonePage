@@ -1,0 +1,426 @@
+body{
+    margin:0%;
+    font-family: 'Nota-Sans KR', sans-serif;
+}
+.navbar{
+    padding:1.6%;
+}
+.navbar img{
+    vertical-align: middle;
+    margin-left: 3%;
+}
+.navbar a{
+    margin-left:2%;
+    text-decoration: none;
+    color: black;
+    font-family: 'Nota-Sans KR', sans-serif;
+    font-size:1.1rem;
+}
+#sign{
+    color:white;
+    margin-left:5% ! important;
+    font-size: 0.9rem;
+    padding:0.7% 0.2% 0.7% 1%;
+    background-color:rgb(49, 152, 255);
+    border-radius: 25px;
+}
+#sign i{
+    margin-left: 0.5%;
+    border-radius: 50%;
+    padding: 0.4%;
+    font-size: 1.1rem;
+    background-color:rgb(1, 1, 123);
+}
+#sign:hover{
+    background-color: rgb(1, 1, 99);
+}
+#sign:hover i{
+    background-color:rgb(49, 152, 255);
+}
+
+.x{
+    background-color: rgb(234, 233, 233);
+    padding:1.2%;
+    text-align:center;
+}
+.sec2{
+    display:flex;
+    justify-content:space-between;
+    padding: 5% 0% 5% 5%;
+    margin-top:2%;
+}
+.a{
+    margin-left:3%;
+}
+.one{
+    margin-top: 6%;
+    font-size: 60px;
+    margin-bottom: 0%;
+}
+.two{
+    font-size: 60px;
+   margin: 0%;
+}
+.para{
+    font-size:24px;
+    font-weight: normal;
+    margin-right: 35%;
+    margin-top: 3%;
+}
+.download{
+    border:1px solid black;
+    width:223;
+    border-radius:30px;
+    padding:1.5%;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+   
+    margin-top: 6%;
+    cursor:pointer;
+}
+.download:hover{
+    background-color: white;
+    color: black;
+}
+.download i{
+    margin-left:2%;
+}
+.sec3{
+    background-color: rgb(12, 191, 251);
+    text-align: center;
+}
+.head3{
+    font-size: 35px;
+    text-align: left;
+    color: white;
+    padding-left: 7%;
+    padding-top: 4%;
+}
+.div3{
+    text-align: left;
+    display:flex;
+    justify-content: space-between;
+    /*padding-left: 4%;*/
+    padding-bottom: 5%;
+    margin-left: 9%;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    line-height: 30px;
+}
+.div3 a{
+    width:200;
+    text-decoration: none;
+    color: white;
+}
+.sec4{
+    background-color:rgb(48, 48, 106);
+}
+.sec5{
+    background-color: rgb(246, 244, 244);
+    padding-top:5%;
+    padding-left:10%;
+    padding-right:10%;
+    padding-bottom: 10%;
+}
+.head4{
+    font-size: 50;
+    font-weight: bold;
+}
+.div5{
+    display:flex;
+    font-weight: bold;
+}
+.div4{
+    background-color: white;
+    padding: 10% 5% 6% 10%;
+    border-radius: 10px;
+    display:flex;
+}
+div6{
+    padding:0%;
+}
+.aone{
+    margin-top: 10%;
+    font-size: 37px;
+    margin-bottom: 0%;
+}
+.atwo{
+    font-size: 37px;
+    margin:0%;
+}
+.para2{
+    font-size:20px;
+    margin-top: 6%;
+}
+.download2{
+    border:1px solid black;
+    width:223px;
+    border-radius:30px;
+    padding:2.5%;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    margin-top: 8%;
+    cursor:pointer;
+}
+.download2 i{
+    margin-left:2%;
+}
+.download2:hover{
+    background-color: white;
+    color: black;
+}
+div1{
+    display: flex;
+}
+.div7{
+    margin-top: 40px;
+    background-color: white;
+    padding: 11% 5% 6% 10%;
+    border-radius: 10px;
+    display:flex;
+}
+.learn{
+    background-color: rgb(1, 1, 123);
+    color: white;
+    border-radius: 25px;
+    margin-top: 8%;
+    width:107px;
+    font-size: 17px;
+    padding:3% 6% 3% 6%;
+}
+.learn:hover{
+    background-color: rgb(12, 191, 251);
+}
+.div10{
+    margin-top: 40px;
+    background-color: white;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 10px;
+    width: 445px;
+}
+div11{
+    display: flex;
+    justify-content: space-between;
+}
+div12{
+    display: flex;
+    padding:6% 9% 6% 9%;
+}
+.sec7{
+    padding:6% 9% 6% 9%;
+    background-color: rgb(246, 244, 244);
+    background-image: url('C:\Internship\frontend\images\28.webp');
+
+}
+.sec6{
+    background-color: white;
+    padding-top:2%;
+    padding-left:3%;
+    padding-right:3%;
+    padding-bottom:3%;
+}
+.sec8{
+    background-color: white;
+    padding-top:5%;
+    padding-left:10%;
+    padding-right:10%;
+}
+div16{
+    background-color:rgb(244, 242, 242);
+    padding: 9% 0% 6% 10%;
+    border-radius: 10px;
+    display:flex;
+    margin-top: 40px;
+}
+.div17{
+text-align: left;
+    display:flex;
+    /*padding-left: 4%;*/
+    padding-bottom: 5%;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 30px;
+    padding-top: 8%;
+    margin-bottom: 250px;
+}
+.div17 a{
+    width:300;
+    text-decoration: none;
+    color: black;
+    padding-right: 5%;
+    margin-right: 2%;
+
+}
+.xyz{
+    font-weight: bold;
+    font-size: 30px;
+}
+.abc{
+    font-weight: bold;
+    font-size: 15px;
+}
+.learn2{
+    text-decoration: none;
+    color:rgb(12, 191, 251);
+    font-weight: 600;
+}
+.learn2:hover{
+    color: rgb(1, 1, 117);
+}
+.div20{
+    display:flex;
+    justify-content: space-between;
+}
+.div20 a{
+    background-color: rgb(86, 219, 249);
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    text-align: center;
+    margin-left: 35px;
+    padding-bottom: 20px;;
+}
+.div20 a:hover{
+    background-color: rgb(95, 199, 234);
+}
+.div20 a img{
+    margin-bottom: 20px;
+}
+.div19{
+    margin-left: 40px;;
+    width:250px;
+}
+.div19 img{
+    margin-bottom: 40px;
+}
+div18{
+    display:flex;
+    margin-bottom:150px;
+}
+.div21{
+    display:flex;
+    justify-content: space-between;
+}
+.div21 a{
+    background-color:rgb(86, 219, 249);
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    text-align:left;
+    margin-left: 35px;
+    padding-bottom: 10px;
+    padding-top: 25px;
+    padding-left: 10px;
+    font-size: 17px;
+    width:120px;
+}
+.div21 a:hover{
+    background-color: rgb(71, 204, 249);
+}
+.div21 a img{
+    margin-bottom: 20px;
+}
+.def{
+    font-size: 12px;
+}
+.sec9{
+    background-color: whitesmoke;
+    padding:5% 8% 10% 8%;
+}
+.div22{
+    display: flex;
+}
+.div22 img{
+    margin-left: 10px;
+}
+.div23{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.line{
+    border-width: 1px;
+    border-color: rgb(151, 147, 147);
+    border-bottom-style: solid;
+    padding-left: 87%;
+    margin-left: 1%;
+}
+.line2{
+    border-width: 1px;
+    border-color: rgb(151, 147, 147);
+    border-bottom-style: solid;
+    padding-left:92%;
+    margin-left: 1%;
+}
+.line3{
+    border-width: 1px;
+    border-color: rgb(151, 147, 147);
+    border-bottom-style: solid;
+    padding-left: 95%;
+    margin-left: 1%;
+}
+.line4{
+    border-width: 1px;
+    border-color: rgb(151, 147, 147);
+    border-bottom-style: solid;
+    padding-left: 85.5%;
+    margin-left: 1%;
+}
+.line5{
+    border-width: 1px;
+    border-color: rgb(151, 147, 147);
+    border-bottom-style: solid;
+    padding-left: 66.5%;
+    margin-left: 1%;
+}
+.line6{
+    border-width: 1px;
+    border-color: rgb(151, 147, 147);
+    border-bottom-style: solid;
+    padding-left: 80.5%;
+    margin-left: 1%;
+}
+.line7{
+    border-width: 1px;
+    border-color: rgb(151, 147, 147);
+    border-bottom-style: solid;
+    padding-left: 83.5%;
+    margin-left: 1%;
+}
+.inv{
+    font-size: 15px;
+    font-weight: bold;
+    color:rgb(91, 86, 86)
+}
+.div24{
+    display: flex;
+    justify-content: space-between;
+    color:rgb(107, 107, 107);
+    font-size: 11.5px;
+}
+.para4{
+    background-color: rgb(60, 188, 216);
+    font-size: 11px;
+    color: rgb(63, 193, 223);
+    margin-top:0%;
+    margin-bottom: 0%;
+}
+.para5{
+    background-color: rgb(40, 38, 127);
+    font-size: 11px;
+    color: rgb(40, 38, 127);
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+
+
+
